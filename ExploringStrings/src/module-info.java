@@ -1,0 +1,3 @@
+module ExploringStrings {
+	exports main;
+}
